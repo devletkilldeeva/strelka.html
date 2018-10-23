@@ -11,5 +11,9 @@ body {
 }
 
 section {
+  height: 80vh;
+
   background-image: url("bg.jpg");
+  background-position: center;
+  background-size: cover;
 }
